@@ -101,6 +101,5 @@ results/
 ## Author
 
 Jacintha Beena Mathias
-
 MSc Data Science Dissertation  
 University of Bristol
